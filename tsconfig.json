@@ -14,6 +14,8 @@
     "noUncheckedIndexedAccess": true,
     "checkJs": true,
 
+    "sourceMap": true,
+
     /* Bundled projects */
     "lib": ["dom", "dom.iterable", "ES2022"],
     "noEmit": true,
