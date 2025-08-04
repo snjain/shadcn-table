@@ -37,7 +37,7 @@ See the [documentation](https://diceui.com/docs/components/data-table) to get st
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/sadmann7/shadcn-table
+   git clone https://github.com/snjain/shadcn-table
    cd shadcn-table
    ```
 
@@ -60,7 +60,7 @@ See the [documentation](https://diceui.com/docs/components/data-table) to get st
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/sadmann7/shadcn-table
+   git clone https://github.com/snjain/shadcn-table
    cd shadcn-table
    ```
 
